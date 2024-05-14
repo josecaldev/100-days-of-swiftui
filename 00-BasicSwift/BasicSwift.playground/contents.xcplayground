@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Types and Casting'/>
+        <page name='Classes'/>
+        <page name='Bool &amp; String Interpolation'/>
+        <page name='Array Dictionary Sets Enum'/>
+        <page name='Ternary and Switch'/>
+        <page name='loops'/>
+        <page name='Func, Tuples &amp; param names'/>
+        <page name='Default values &amp; Throw'/>
+        <page name='Closures'/>
+        <page name='Struct, Prop Observers &amp; Static'/>
+        <page name='Optionals'/>
+        <page name='Protocols &amp; Extensions'/>
+    </pages>
+</playground>
