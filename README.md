@@ -15,6 +15,10 @@ Name and Features | Previews
 ---|---
 [Project 1](01-WeSplit): WeSplit | Image
 
+
+
+
  
 
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
